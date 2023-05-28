@@ -1,0 +1,1904 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 debug pnpm:package-manifest": {
+    "initial": {
+      "dependencies": {
+        "create-react-app": "^5.0.1"
+      }
+    },
+    "prefix": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5"
+  },
+  "2 debug pnpm:context": {
+    "currentLockfileExists": true,
+    "storeDir": "/home/theia/.pnpm-store/v3",
+    "virtualStoreDir": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5/node_modules/.pnpm"
+  },
+  "3 debug pnpm:stage": {
+    "prefix": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "stage": "resolution_started"
+  },
+  "4 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/create-react-app/5.0.1",
+    "wanted": {
+      "dependentId": ".",
+      "name": "create-react-app",
+      "rawSpec": "^5.0.1"
+    }
+  },
+  "5 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/create-react-app/5.0.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "6 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/create-react-app/5.0.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "7 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/nodemon/2.0.22",
+    "wanted": {
+      "dependentId": ".",
+      "name": "nodemon",
+      "rawSpec": "latest"
+    }
+  },
+  "8 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/nodemon/2.0.22",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "9 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/cross-spawn/7.0.3",
+    "wanted": {
+      "dependentId": "/create-react-app/5.0.1",
+      "name": "cross-spawn",
+      "rawSpec": "^7.0.3"
+    }
+  },
+  "10 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/commander/4.1.1",
+    "wanted": {
+      "dependentId": "/create-react-app/5.0.1",
+      "name": "commander",
+      "rawSpec": "^4.1.1"
+    }
+  },
+  "11 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/chalk/4.1.2",
+    "wanted": {
+      "dependentId": "/create-react-app/5.0.1",
+      "name": "chalk",
+      "rawSpec": "^4.1.2"
+    }
+  },
+  "12 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/envinfo/7.8.1",
+    "wanted": {
+      "dependentId": "/create-react-app/5.0.1",
+      "name": "envinfo",
+      "rawSpec": "^7.8.1"
+    }
+  },
+  "13 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/fs-extra/10.1.0",
+    "wanted": {
+      "dependentId": "/create-react-app/5.0.1",
+      "name": "fs-extra",
+      "rawSpec": "^10.0.0"
+    }
+  },
+  "14 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/prompts/2.4.2",
+    "wanted": {
+      "dependentId": "/create-react-app/5.0.1",
+      "name": "prompts",
+      "rawSpec": "^2.4.2"
+    }
+  },
+  "15 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/hyperquest/2.1.3",
+    "wanted": {
+      "dependentId": "/create-react-app/5.0.1",
+      "name": "hyperquest",
+      "rawSpec": "^2.1.3"
+    }
+  },
+  "16 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/semver/7.5.1",
+    "wanted": {
+      "dependentId": "/create-react-app/5.0.1",
+      "name": "semver",
+      "rawSpec": "^7.3.5"
+    }
+  },
+  "17 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/tar-pack/3.4.1",
+    "wanted": {
+      "dependentId": "/create-react-app/5.0.1",
+      "name": "tar-pack",
+      "rawSpec": "^3.4.1"
+    }
+  },
+  "18 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/validate-npm-package-name/3.0.0",
+    "wanted": {
+      "dependentId": "/create-react-app/5.0.1",
+      "name": "validate-npm-package-name",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "19 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/tmp/0.2.1",
+    "wanted": {
+      "dependentId": "/create-react-app/5.0.1",
+      "name": "tmp",
+      "rawSpec": "^0.2.1"
+    }
+  },
+  "20 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/envinfo/7.8.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "21 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/envinfo/7.8.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "22 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/chalk/4.1.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "23 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/chalk/4.1.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "24 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/commander/4.1.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "25 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/commander/4.1.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "26 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/hyperquest/2.1.3",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "27 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/hyperquest/2.1.3",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "28 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/prompts/2.4.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "29 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/prompts/2.4.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "30 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/cross-spawn/7.0.3",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "31 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/cross-spawn/7.0.3",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "32 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/tar-pack/3.4.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "33 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/tar-pack/3.4.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "34 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fs-extra/10.1.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "35 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fs-extra/10.1.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "36 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/semver/7.5.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "37 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/semver/7.5.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "38 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/tmp/0.2.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "39 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/tmp/0.2.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "40 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/validate-npm-package-name/3.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "41 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/validate-npm-package-name/3.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "42 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/ansi-styles/4.3.0",
+    "wanted": {
+      "dependentId": "/chalk/4.1.2",
+      "name": "ansi-styles",
+      "rawSpec": "^4.1.0"
+    }
+  },
+  "43 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/supports-color/7.2.0",
+    "wanted": {
+      "dependentId": "/chalk/4.1.2",
+      "name": "supports-color",
+      "rawSpec": "^7.1.0"
+    }
+  },
+  "44 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/buffer-from/0.1.2",
+    "wanted": {
+      "dependentId": "/hyperquest/2.1.3",
+      "name": "buffer-from",
+      "rawSpec": "^0.1.1"
+    }
+  },
+  "45 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/duplexer2/0.0.2",
+    "wanted": {
+      "dependentId": "/hyperquest/2.1.3",
+      "name": "duplexer2",
+      "rawSpec": "~0.0.2"
+    }
+  },
+  "46 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/through2/0.6.5",
+    "wanted": {
+      "dependentId": "/hyperquest/2.1.3",
+      "name": "through2",
+      "rawSpec": "~0.6.3"
+    }
+  },
+  "47 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/kleur/3.0.3",
+    "wanted": {
+      "dependentId": "/prompts/2.4.2",
+      "name": "kleur",
+      "rawSpec": "^3.0.3"
+    }
+  },
+  "48 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/path-key/3.1.1",
+    "wanted": {
+      "dependentId": "/cross-spawn/7.0.3",
+      "name": "path-key",
+      "rawSpec": "^3.1.0"
+    }
+  },
+  "49 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/sisteransi/1.0.5",
+    "wanted": {
+      "dependentId": "/prompts/2.4.2",
+      "name": "sisteransi",
+      "rawSpec": "^1.0.5"
+    }
+  },
+  "50 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/which/2.0.2",
+    "wanted": {
+      "dependentId": "/cross-spawn/7.0.3",
+      "name": "which",
+      "rawSpec": "^2.0.1"
+    }
+  },
+  "51 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/fstream/1.0.12",
+    "wanted": {
+      "dependentId": "/tar-pack/3.4.1",
+      "name": "fstream",
+      "rawSpec": "^1.0.10"
+    }
+  },
+  "52 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/shebang-command/2.0.0",
+    "wanted": {
+      "dependentId": "/cross-spawn/7.0.3",
+      "name": "shebang-command",
+      "rawSpec": "^2.0.0"
+    }
+  },
+  "53 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/debug/2.6.9",
+    "wanted": {
+      "dependentId": "/tar-pack/3.4.1",
+      "name": "debug",
+      "rawSpec": "^2.2.0"
+    }
+  },
+  "54 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/rimraf/2.7.1",
+    "wanted": {
+      "dependentId": "/tar-pack/3.4.1",
+      "name": "rimraf",
+      "rawSpec": "^2.5.1"
+    }
+  },
+  "55 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/once/1.4.0",
+    "wanted": {
+      "dependentId": "/tar-pack/3.4.1",
+      "name": "once",
+      "rawSpec": "^1.3.3"
+    }
+  },
+  "56 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/fstream-ignore/1.0.5",
+    "wanted": {
+      "dependentId": "/tar-pack/3.4.1",
+      "name": "fstream-ignore",
+      "rawSpec": "^1.0.5"
+    }
+  },
+  "57 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/tar/2.2.2",
+    "wanted": {
+      "dependentId": "/tar-pack/3.4.1",
+      "name": "tar",
+      "rawSpec": "^2.2.1"
+    }
+  },
+  "58 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/readable-stream/2.3.8",
+    "wanted": {
+      "dependentId": "/tar-pack/3.4.1",
+      "name": "readable-stream",
+      "rawSpec": "^2.1.4"
+    }
+  },
+  "59 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/graceful-fs/4.2.11",
+    "wanted": {
+      "dependentId": "/fs-extra/10.1.0",
+      "name": "graceful-fs",
+      "rawSpec": "^4.2.0"
+    }
+  },
+  "60 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/universalify/2.0.0",
+    "wanted": {
+      "dependentId": "/fs-extra/10.1.0",
+      "name": "universalify",
+      "rawSpec": "^2.0.0"
+    }
+  },
+  "61 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/uid-number/0.0.6",
+    "wanted": {
+      "dependentId": "/tar-pack/3.4.1",
+      "name": "uid-number",
+      "rawSpec": "^0.0.6"
+    }
+  },
+  "62 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/lru-cache/6.0.0",
+    "wanted": {
+      "dependentId": "/semver/7.5.1",
+      "name": "lru-cache",
+      "rawSpec": "^6.0.0"
+    }
+  },
+  "63 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/rimraf/3.0.2",
+    "wanted": {
+      "dependentId": "/tmp/0.2.1",
+      "name": "rimraf",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "64 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/jsonfile/6.1.0",
+    "wanted": {
+      "dependentId": "/fs-extra/10.1.0",
+      "name": "jsonfile",
+      "rawSpec": "^6.0.1"
+    }
+  },
+  "65 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/builtins/1.0.3",
+    "wanted": {
+      "dependentId": "/validate-npm-package-name/3.0.0",
+      "name": "builtins",
+      "rawSpec": "^1.0.3"
+    }
+  },
+  "66 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/duplexer2/0.0.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "67 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/duplexer2/0.0.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "68 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ansi-styles/4.3.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "69 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ansi-styles/4.3.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "70 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/supports-color/7.2.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "71 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/supports-color/7.2.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "72 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/through2/0.6.5",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "73 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/through2/0.6.5",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "74 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/buffer-from/0.1.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "75 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/buffer-from/0.1.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "76 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/path-key/3.1.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "77 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/path-key/3.1.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "78 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/which/2.0.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "79 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/which/2.0.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "80 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/color-convert/2.0.1",
+    "wanted": {
+      "dependentId": "/ansi-styles/4.3.0",
+      "name": "color-convert",
+      "rawSpec": "^2.0.1"
+    }
+  },
+  "81 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/has-flag/4.0.0",
+    "wanted": {
+      "dependentId": "/supports-color/7.2.0",
+      "name": "has-flag",
+      "rawSpec": "^4.0.0"
+    }
+  },
+  "82 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/shebang-command/2.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "83 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/shebang-command/2.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "84 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/readable-stream/1.1.14",
+    "wanted": {
+      "dependentId": "/duplexer2/0.0.2",
+      "name": "readable-stream",
+      "rawSpec": "~1.1.9"
+    }
+  },
+  "85 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/xtend/4.0.2",
+    "wanted": {
+      "dependentId": "/through2/0.6.5",
+      "name": "xtend",
+      "rawSpec": ">=4.0.0 <4.1.0-0"
+    }
+  },
+  "86 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/readable-stream/1.0.34",
+    "wanted": {
+      "dependentId": "/through2/0.6.5",
+      "name": "readable-stream",
+      "rawSpec": ">=1.0.33-1 <1.1.0-0"
+    }
+  },
+  "87 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fstream/1.0.12",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "88 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fstream/1.0.12",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "89 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/isexe/2.0.0",
+    "wanted": {
+      "dependentId": "/which/2.0.2",
+      "name": "isexe",
+      "rawSpec": "^2.0.0"
+    }
+  },
+  "90 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/shebang-regex/3.0.0",
+    "wanted": {
+      "dependentId": "/shebang-command/2.0.0",
+      "name": "shebang-regex",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "91 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/kleur/3.0.3",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "92 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/kleur/3.0.3",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "93 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/debug/2.6.9",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "94 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/debug/2.6.9",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "95 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/sisteransi/1.0.5",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "96 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/sisteransi/1.0.5",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "97 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/once/1.4.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "98 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/once/1.4.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "99 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/rimraf/2.7.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "100 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/rimraf/2.7.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "101 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fstream-ignore/1.0.5",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "102 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fstream-ignore/1.0.5",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "103 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/readable-stream/2.3.8",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "104 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/readable-stream/2.3.8",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "105 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/tar/2.2.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "106 debug pnpm:deprecation": {
+    "deprecated": "This version of tar is no longer supported, and will not receive security updates. Please upgrade asap.",
+    "depth": 2,
+    "pkgId": "registry.npmjs.org/tar/2.2.2",
+    "pkgName": "tar",
+    "pkgVersion": "2.2.2",
+    "prefix": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5"
+  },
+  "107 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/tar/2.2.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "108 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/uid-number/0.0.6",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "109 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/uid-number/0.0.6",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "110 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/lru-cache/6.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "111 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/lru-cache/6.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "112 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/graceful-fs/4.2.11",
+    "wanted": {
+      "dependentId": "/fstream/1.0.12",
+      "name": "graceful-fs",
+      "rawSpec": "^4.1.2"
+    }
+  },
+  "113 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/rimraf/2.7.1",
+    "wanted": {
+      "dependentId": "/fstream/1.0.12",
+      "name": "rimraf",
+      "rawSpec": "2"
+    }
+  },
+  "114 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/inherits/2.0.4",
+    "wanted": {
+      "dependentId": "/fstream/1.0.12",
+      "name": "inherits",
+      "rawSpec": "~2.0.0"
+    }
+  },
+  "115 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/mkdirp/0.5.6",
+    "wanted": {
+      "dependentId": "/fstream/1.0.12",
+      "name": "mkdirp",
+      "rawSpec": ">=0.5 0"
+    }
+  },
+  "116 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/ms/2.0.0",
+    "wanted": {
+      "dependentId": "/debug/2.6.9",
+      "name": "ms",
+      "rawSpec": "2.0.0"
+    }
+  },
+  "117 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/wrappy/1.0.2",
+    "wanted": {
+      "dependentId": "/once/1.4.0",
+      "name": "wrappy",
+      "rawSpec": "1"
+    }
+  },
+  "118 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/fstream/1.0.12",
+    "wanted": {
+      "dependentId": "/fstream-ignore/1.0.5",
+      "name": "fstream",
+      "rawSpec": "^1.0.0"
+    }
+  },
+  "119 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/glob/7.2.3",
+    "wanted": {
+      "dependentId": "/rimraf/2.7.1",
+      "name": "glob",
+      "rawSpec": "^7.1.3"
+    }
+  },
+  "120 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/inherits/2.0.4",
+    "wanted": {
+      "dependentId": "/fstream-ignore/1.0.5",
+      "name": "inherits",
+      "rawSpec": "2"
+    }
+  },
+  "121 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/minimatch/3.1.2",
+    "wanted": {
+      "dependentId": "/fstream-ignore/1.0.5",
+      "name": "minimatch",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "122 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/inherits/2.0.4",
+    "wanted": {
+      "dependentId": "/readable-stream/2.3.8",
+      "name": "inherits",
+      "rawSpec": "~2.0.3"
+    }
+  },
+  "123 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/core-util-is/1.0.3",
+    "wanted": {
+      "dependentId": "/readable-stream/2.3.8",
+      "name": "core-util-is",
+      "rawSpec": "~1.0.0"
+    }
+  },
+  "124 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/isarray/1.0.0",
+    "wanted": {
+      "dependentId": "/readable-stream/2.3.8",
+      "name": "isarray",
+      "rawSpec": "~1.0.0"
+    }
+  },
+  "125 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/process-nextick-args/2.0.1",
+    "wanted": {
+      "dependentId": "/readable-stream/2.3.8",
+      "name": "process-nextick-args",
+      "rawSpec": "~2.0.0"
+    }
+  },
+  "126 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/string_decoder/1.1.1",
+    "wanted": {
+      "dependentId": "/readable-stream/2.3.8",
+      "name": "string_decoder",
+      "rawSpec": "~1.1.1"
+    }
+  },
+  "127 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/fstream/1.0.12",
+    "wanted": {
+      "dependentId": "/tar/2.2.2",
+      "name": "fstream",
+      "rawSpec": "^1.0.12"
+    }
+  },
+  "128 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/inherits/2.0.4",
+    "wanted": {
+      "dependentId": "/tar/2.2.2",
+      "name": "inherits",
+      "rawSpec": "2"
+    }
+  },
+  "129 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/graceful-fs/4.2.11",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "130 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/graceful-fs/4.2.11",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "131 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/rimraf/3.0.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "132 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/rimraf/3.0.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "133 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/universalify/2.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "134 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/universalify/2.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "135 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/util-deprecate/1.0.2",
+    "wanted": {
+      "dependentId": "/readable-stream/2.3.8",
+      "name": "util-deprecate",
+      "rawSpec": "~1.0.1"
+    }
+  },
+  "136 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/safe-buffer/5.1.2",
+    "wanted": {
+      "dependentId": "/readable-stream/2.3.8",
+      "name": "safe-buffer",
+      "rawSpec": "~5.1.1"
+    }
+  },
+  "137 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/block-stream/0.0.9",
+    "wanted": {
+      "dependentId": "/tar/2.2.2",
+      "name": "block-stream",
+      "rawSpec": "*"
+    }
+  },
+  "138 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/jsonfile/6.1.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "139 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/jsonfile/6.1.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "140 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/yallist/4.0.0",
+    "wanted": {
+      "dependentId": "/lru-cache/6.0.0",
+      "name": "yallist",
+      "rawSpec": "^4.0.0"
+    }
+  },
+  "141 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/builtins/1.0.3",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "142 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/builtins/1.0.3",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "143 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/glob/7.2.3",
+    "wanted": {
+      "dependentId": "/rimraf/3.0.2",
+      "name": "glob",
+      "rawSpec": "^7.1.3"
+    }
+  },
+  "144 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/color-convert/2.0.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "145 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/color-convert/2.0.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "146 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/universalify/2.0.0",
+    "wanted": {
+      "dependentId": "/jsonfile/6.1.0",
+      "name": "universalify",
+      "rawSpec": "^2.0.0"
+    }
+  },
+  "147 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/readable-stream/1.1.14",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "148 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/readable-stream/1.1.14",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "149 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/has-flag/4.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "150 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/has-flag/4.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "151 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/color-name/1.1.4",
+    "wanted": {
+      "dependentId": "/color-convert/2.0.1",
+      "name": "color-name",
+      "rawSpec": "~1.1.4"
+    }
+  },
+  "152 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/core-util-is/1.0.3",
+    "wanted": {
+      "dependentId": "/readable-stream/1.1.14",
+      "name": "core-util-is",
+      "rawSpec": "~1.0.0"
+    }
+  },
+  "153 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/inherits/2.0.4",
+    "wanted": {
+      "dependentId": "/readable-stream/1.1.14",
+      "name": "inherits",
+      "rawSpec": "~2.0.1"
+    }
+  },
+  "154 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/isarray/0.0.1",
+    "wanted": {
+      "dependentId": "/readable-stream/1.1.14",
+      "name": "isarray",
+      "rawSpec": "0.0.1"
+    }
+  },
+  "155 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/string_decoder/0.10.31",
+    "wanted": {
+      "dependentId": "/readable-stream/1.1.14",
+      "name": "string_decoder",
+      "rawSpec": "~0.10.x"
+    }
+  },
+  "156 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/readable-stream/1.0.34",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "157 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/readable-stream/1.0.34",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "158 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/xtend/4.0.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "159 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/xtend/4.0.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "160 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/shebang-regex/3.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "161 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/shebang-regex/3.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "162 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/core-util-is/1.0.3",
+    "wanted": {
+      "dependentId": "/readable-stream/1.0.34",
+      "name": "core-util-is",
+      "rawSpec": "~1.0.0"
+    }
+  },
+  "163 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/isarray/0.0.1",
+    "wanted": {
+      "dependentId": "/readable-stream/1.0.34",
+      "name": "isarray",
+      "rawSpec": "0.0.1"
+    }
+  },
+  "164 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/string_decoder/0.10.31",
+    "wanted": {
+      "dependentId": "/readable-stream/1.0.34",
+      "name": "string_decoder",
+      "rawSpec": "~0.10.x"
+    }
+  },
+  "165 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/inherits/2.0.4",
+    "wanted": {
+      "dependentId": "/readable-stream/1.0.34",
+      "name": "inherits",
+      "rawSpec": "~2.0.1"
+    }
+  },
+  "166 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/isexe/2.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "167 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/isexe/2.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "168 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/mkdirp/0.5.6",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "169 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/mkdirp/0.5.6",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "170 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/inherits/2.0.4",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "171 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/inherits/2.0.4",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "172 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/glob/7.2.3",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "173 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/glob/7.2.3",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "174 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ms/2.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "175 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ms/2.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "176 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/wrappy/1.0.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "177 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/wrappy/1.0.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "178 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/minimatch/3.1.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "179 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/minimatch/3.1.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "180 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/minimist/1.2.8",
+    "wanted": {
+      "dependentId": "/mkdirp/0.5.6",
+      "name": "minimist",
+      "rawSpec": "^1.2.6"
+    }
+  },
+  "181 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/inherits/2.0.4",
+    "wanted": {
+      "dependentId": "/glob/7.2.3",
+      "name": "inherits",
+      "rawSpec": "2"
+    }
+  },
+  "182 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/minimatch/3.1.2",
+    "wanted": {
+      "dependentId": "/glob/7.2.3",
+      "name": "minimatch",
+      "rawSpec": "^3.1.1"
+    }
+  },
+  "183 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/once/1.4.0",
+    "wanted": {
+      "dependentId": "/glob/7.2.3",
+      "name": "once",
+      "rawSpec": "^1.3.0"
+    }
+  },
+  "184 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/inflight/1.0.6",
+    "wanted": {
+      "dependentId": "/glob/7.2.3",
+      "name": "inflight",
+      "rawSpec": "^1.0.4"
+    }
+  },
+  "185 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/fs.realpath/1.0.0",
+    "wanted": {
+      "dependentId": "/glob/7.2.3",
+      "name": "fs.realpath",
+      "rawSpec": "^1.0.0"
+    }
+  },
+  "186 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/path-is-absolute/1.0.1",
+    "wanted": {
+      "dependentId": "/glob/7.2.3",
+      "name": "path-is-absolute",
+      "rawSpec": "^1.0.0"
+    }
+  },
+  "187 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/core-util-is/1.0.3",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "188 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/core-util-is/1.0.3",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "189 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/process-nextick-args/2.0.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "190 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/process-nextick-args/2.0.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "191 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/brace-expansion/1.1.11",
+    "wanted": {
+      "dependentId": "/minimatch/3.1.2",
+      "name": "brace-expansion",
+      "rawSpec": "^1.1.7"
+    }
+  },
+  "192 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/isarray/1.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "193 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/isarray/1.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "194 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/string_decoder/1.1.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "195 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/string_decoder/1.1.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "196 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/util-deprecate/1.0.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "197 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/util-deprecate/1.0.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "198 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/safe-buffer/5.1.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "199 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/safe-buffer/5.1.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "200 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/block-stream/0.0.9",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "201 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/block-stream/0.0.9",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "202 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/safe-buffer/5.1.2",
+    "wanted": {
+      "dependentId": "/string_decoder/1.1.1",
+      "name": "safe-buffer",
+      "rawSpec": "~5.1.0"
+    }
+  },
+  "203 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/yallist/4.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "204 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/yallist/4.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "205 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/inherits/2.0.4",
+    "wanted": {
+      "dependentId": "/block-stream/0.0.9",
+      "name": "inherits",
+      "rawSpec": "~2.0.0"
+    }
+  },
+  "206 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/isarray/0.0.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "207 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/isarray/0.0.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "208 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/color-name/1.1.4",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "209 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/color-name/1.1.4",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "210 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/string_decoder/0.10.31",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "211 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/string_decoder/0.10.31",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "212 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/inflight/1.0.6",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "213 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/inflight/1.0.6",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "214 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/path-is-absolute/1.0.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "215 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/path-is-absolute/1.0.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "216 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fs.realpath/1.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "217 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fs.realpath/1.0.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "218 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/brace-expansion/1.1.11",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "219 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/brace-expansion/1.1.11",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "220 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/minimist/1.2.8",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "221 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/minimist/1.2.8",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "222 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/once/1.4.0",
+    "wanted": {
+      "dependentId": "/inflight/1.0.6",
+      "name": "once",
+      "rawSpec": "^1.3.0"
+    }
+  },
+  "223 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/wrappy/1.0.2",
+    "wanted": {
+      "dependentId": "/inflight/1.0.6",
+      "name": "wrappy",
+      "rawSpec": "1"
+    }
+  },
+  "224 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/balanced-match/1.0.2",
+    "wanted": {
+      "dependentId": "/brace-expansion/1.1.11",
+      "name": "balanced-match",
+      "rawSpec": "^1.0.0"
+    }
+  },
+  "225 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/concat-map/0.0.1",
+    "wanted": {
+      "dependentId": "/brace-expansion/1.1.11",
+      "name": "concat-map",
+      "rawSpec": "0.0.1"
+    }
+  },
+  "226 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/balanced-match/1.0.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "227 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/balanced-match/1.0.2",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "228 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/concat-map/0.0.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "found_in_store"
+  },
+  "229 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/concat-map/0.0.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "230 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/ignore-by-default"
+  },
+  "231 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/simple-update-notifier"
+  },
+  "232 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET",
+      "attempts": 1,
+      "resource": "https://registry.npmjs.org/nodemon/-/nodemon-2.0.22.tgz"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/nodemon/-/nodemon-2.0.22.tgz"
+  },
+  "233 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/debug"
+  },
+  "234 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/semver"
+  },
+  "235 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/supports-color"
+  },
+  "236 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/touch"
+  },
+  "237 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/undefsafe"
+  },
+  "238 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/pstree.remy"
+  },
+  "239 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/minimatch"
+  },
+  "240 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/graceful-fs"
+  },
+  "241 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/chokidar/3.5.3",
+    "wanted": {
+      "dependentId": "/nodemon/2.0.22",
+      "name": "chokidar",
+      "rawSpec": "^3.5.2"
+    }
+  },
+  "242 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/chokidar/3.5.3",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "243 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmjs.org/chokidar/3.5.3",
+    "size": 26290,
+    "status": "started"
+  },
+  "244 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/chokidar/3.5.3",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "fetched"
+  },
+  "245 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/ignore-by-default/1.0.1",
+    "wanted": {
+      "dependentId": "/nodemon/2.0.22",
+      "name": "ignore-by-default",
+      "rawSpec": "^1.0.1"
+    }
+  },
+  "246 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ignore-by-default/1.0.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "247 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmjs.org/ignore-by-default/1.0.1",
+    "size": 1648,
+    "status": "started"
+  },
+  "248 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ignore-by-default/1.0.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "fetched"
+  },
+  "249 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/supports-color"
+  },
+  "250 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/semver"
+  },
+  "251 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET",
+      "attempts": 2,
+      "resource": "https://registry.npmjs.org/nodemon/-/nodemon-2.0.22.tgz"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/nodemon/-/nodemon-2.0.22.tgz"
+  },
+  "252 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/pstree.remy"
+  },
+  "253 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/simple-update-notifier"
+  },
+  "254 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/graceful-fs"
+  },
+  "255 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/undefsafe"
+  },
+  "256 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/touch"
+  },
+  "257 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/minimatch"
+  },
+  "258 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "type": "system",
+      "errno": "ECONNRESET",
+      "code": "ECONNRESET"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/debug"
+  },
+  "259 error pnpm": {
+    "code": "ERR_PNPM_META_FETCH_FAIL",
+    "attempts": 1,
+    "err": {
+      "name": "Error",
+      "message": "GET https://registry.npmjs.org/supports-color: request to https://registry.npmjs.org/supports-color failed, reason: getaddrinfo EAI_AGAIN registry.npmjs.org",
+      "code": "ERR_PNPM_META_FETCH_FAIL",
+      "stack": "Error: GET https://registry.npmjs.org/supports-color: request to https://registry.npmjs.org/supports-color failed, reason: getaddrinfo EAI_AGAIN registry.npmjs.org\n    at RetryOperation._fn (/usr/local/lib/node_modules/pnpm/dist/pnpm.cjs:85807:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"
+    }
+  },
+  "260 debug pnpm": "Using cached meta from /home/theia/.cache/pnpm/metadata/registry.npmjs.org/supports-color.json",
+  "261 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/supports-color/5.5.0",
+    "wanted": {
+      "dependentId": "/nodemon/2.0.22",
+      "name": "supports-color",
+      "rawSpec": "^5.5.0"
+    }
+  },
+  "262 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/supports-color/5.5.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "263 error pnpm": {
+    "code": "ERR_PNPM_META_FETCH_FAIL",
+    "attempts": 1,
+    "err": {
+      "name": "Error",
+      "message": "GET https://registry.npmjs.org/semver: request to https://registry.npmjs.org/semver failed, reason: Client network socket disconnected before secure TLS connection was established",
+      "code": "ERR_PNPM_META_FETCH_FAIL",
+      "stack": "Error: GET https://registry.npmjs.org/semver: request to https://registry.npmjs.org/semver failed, reason: Client network socket disconnected before secure TLS connection was established\n    at RetryOperation._fn (/usr/local/lib/node_modules/pnpm/dist/pnpm.cjs:85807:19)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"
+    }
+  },
+  "264 debug pnpm": "Using cached meta from /home/theia/.cache/pnpm/metadata/registry.npmjs.org/semver.json",
+  "265 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/semver/5.7.1",
+    "wanted": {
+      "dependentId": "/nodemon/2.0.22",
+      "name": "semver",
+      "rawSpec": "^5.7.1"
+    }
+  },
+  "266 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/semver/5.7.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "267 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/touch/3.1.0",
+    "wanted": {
+      "dependentId": "/nodemon/2.0.22",
+      "name": "touch",
+      "rawSpec": "^3.1.0"
+    }
+  },
+  "268 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/touch/3.1.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "269 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmjs.org/semver/5.7.1",
+    "size": 17541,
+    "status": "started"
+  },
+  "270 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/semver/5.7.1",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "fetched"
+  },
+  "271 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/debug/3.2.7",
+    "wanted": {
+      "dependentId": "/nodemon/2.0.22",
+      "name": "debug",
+      "rawSpec": "^3.2.7"
+    }
+  },
+  "272 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/debug/3.2.7",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "273 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmjs.org/supports-color/5.5.0",
+    "size": 3067,
+    "status": "started"
+  },
+  "274 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/supports-color/5.5.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "fetched"
+  },
+  "275 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmjs.org/touch/3.1.0",
+    "size": 3804,
+    "status": "started"
+  },
+  "276 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/touch/3.1.0",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "fetched"
+  },
+  "277 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/graceful-fs/4.2.11",
+    "wanted": {
+      "dependentId": "/jsonfile/6.1.0",
+      "name": "graceful-fs",
+      "rawSpec": "^4.1.6"
+    }
+  },
+  "278 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmjs.org/debug/3.2.7",
+    "size": 16872,
+    "status": "started"
+  },
+  "279 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/debug/3.2.7",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "fetched"
+  },
+  "280 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/minimatch/3.1.2",
+    "wanted": {
+      "dependentId": "/nodemon/2.0.22",
+      "name": "minimatch",
+      "rawSpec": "^3.1.2"
+    }
+  },
+  "281 debug pnpm:fetching-progress": {
+    "attempt": 3,
+    "packageId": "registry.npmjs.org/nodemon/2.0.22",
+    "size": 58723,
+    "status": "started"
+  },
+  "282 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/pstree.remy/1.1.8",
+    "wanted": {
+      "dependentId": "/nodemon/2.0.22",
+      "name": "pstree.remy",
+      "rawSpec": "^1.1.8"
+    }
+  },
+  "283 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/pstree.remy/1.1.8",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "resolved"
+  },
+  "284 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/nodemon/2.0.22",
+    "requester": "/root/.nvm/versions/node/v14.18.2/pnpm-global/5",
+    "status": "fetched"
+  },
+  "285 error pnpm": {
+    "code": "ERR_PNPM_META_FETCH_FAIL",
+    "attempts": 1,
+    "pkgsStack": [
+      {
+        "id": "registry.npmjs.org/nodemon/2.0.22",
+        "name": "nodemon",
+        "version": "2.0.22"
+      }
+    ],
+    "err": {
+      "name": "pnpm",
+      "message": "GET https://registry.npmjs.org/simple-update-notifier: request to https://registry.npmjs.org/simple-update-notifier failed, reason: socket hang up",
+      "code": "ERR_PNPM_META_FETCH_FAIL",
+      "stack": "pnpm: GET https://registry.npmjs.org/simple-update-notifier: request to https://registry.npmjs.org/simple-update-notifier failed, reason: socket hang up\n    at RetryOperation._fn (/usr/local/lib/node_modules/pnpm/dist/pnpm.cjs:85807:19)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)"
+    }
+  }
+}
